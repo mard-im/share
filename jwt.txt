@@ -1,0 +1,16 @@
+{
+  "sub": "test@test.ru",
+  "method": "login",
+  "ip": "127.0.0.1",
+  "iis": "http://localhost/passport",
+  "channel": "service",
+  "nonce": "12345",
+  "aud": "test1@test.ru",
+  "auth:service": "oauth2token",
+  "auth:module": "oauth2token",
+  "scope": "sub",
+  "relam": "/b2c/app",
+  "exp": 1663660370,
+  "iat": 1632124370,
+  "jti": "123456"
+}
